@@ -1,7 +1,7 @@
 # MANUAL DO USUÁRIO
 
 ## trabalho1/Leonardo.
-## trabalho de técnicas de programação
+## Trabalho de técnicas de programação
 
 Este documento pode ser utilizado como guia, para uma melhor execução do programa siga as instruções a seguir.
 
